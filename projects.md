@@ -28,7 +28,7 @@
 Уровень опасности: LOW  
 Критерий атаки: NONE  
 Пакетный менеджер PHP добавляет бейдж StandWith43mUkraine  
-Внедрено [Gemorroj](https://github.com/Gemorroj) в коммите [86244a3695fcaaac9c](https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981)  
+Внедрено [Seldaek](https://github.com/Seldaek) в коммите [86244a3695fcaaac9c](https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981)  
 
 
 
