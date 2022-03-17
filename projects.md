@@ -9,3 +9,12 @@
 Срабатывает в следующих часовых поясах  
 "Europe/Moscow", "Asia/Yakutsk", "Asia/Krasnoyarsk", "Europe/Samara", "Asia/Yekaterinburg", "Asia/Irkutsk", "Asia/Anadyr", "Asia/Kamchatka", "Europe/Kaliningrad", "Asia/Vladivostok", "Asia/Magadan", "Asia/Novosibirsk", "Asia/Omsk"  
 Ответвенный контрибьютор [medikoo](https://github.com/medikoo)  
+
+## AWS Terraform modules
+Уровень опасности: HIGH  
+Критерий атаки: UNKNOWN  
+Все модули AWS для Terraform поддерживаемые сообществом, также сдублировалось в официальный Registry  
+Шифровальщик системы  
+Закладка внедрена личном ейнтейнером [antonbabenko](https://github.com/antonbabenko)  
+
+
