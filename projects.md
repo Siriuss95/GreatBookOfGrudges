@@ -31,4 +31,10 @@
 Внедрено [Seldaek](https://github.com/Seldaek) в коммите [86244a3695fcaaac9c](https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981)  
 
 
+## PHPUnit
+Уровень опасности: LOW  
+Критерий атаки: NONE  
+Показывает бейдж StandWithUkraine  
+Внедрено [sebastianbergmann](https://github.com/sebastianbergmann) в коммите [4634e702b5f05f5e](https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c)  
+
 
