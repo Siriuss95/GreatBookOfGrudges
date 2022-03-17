@@ -7,7 +7,7 @@
 Также существует [альтернативный проект похожего назначения](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979).  
 
 # Содержание
-[Список проектов с закладками](./projects.md)  
+[Список проектов с закладками](./projects.md) [И он же в машиночитаемом виде](./projects.json)  
 
 # Классификация вреда наносимого закладками
 Данная классификация используется втч в машиночитаемом представлении  
