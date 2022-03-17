@@ -19,3 +19,6 @@
 # Классификация по актуальности
 - A - на момент последнего апдейта списка закладка все еще пристусвует
 - NA - на момент последнего апдейта списка закладка удалена
+
+  
+Также существует [альтернативный проект похожего назначения](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979).
