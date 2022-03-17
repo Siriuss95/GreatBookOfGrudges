@@ -15,6 +15,6 @@
 Критерий атаки: UNKNOWN  
 Все модули AWS для Terraform поддерживаемые сообществом, также сдублировалось в официальный Registry  
 Шифровальщик системы  
-Закладка внедрена личном ейнтейнером [antonbabenko](https://github.com/antonbabenko)  
+Закладка внедрена лично мейнтейнером [antonbabenko](https://github.com/antonbabenko)  
 
 
